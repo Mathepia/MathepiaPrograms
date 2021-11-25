@@ -45,6 +45,15 @@ Document name is "Main_TopicName.md"
   
 - Others Resources
 
+
+Other usefull tools may help:
+
+- Use "Zotero" "Group" to share references links
+
+- Use Chrome addon "TabCopy" to generate quick url link of markdown
+
+- Use Chrome addon "markdown-clipper" to turn webpage to markdown document
+
 ## Topics: Contributors and Links
 
 ### Network
