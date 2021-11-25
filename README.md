@@ -16,7 +16,7 @@ Document name is "Main_TopicName.md"
 - Problems
   
   (你们项目组私密的项目不要放在这)
-  
+
   人口扩散网络的结构对传染病空间传播的影响
 
 - Experts in this area
@@ -34,6 +34,9 @@ Document name is "Main_TopicName.md"
   [1]靳帧, 孙桂全, 刘茂省. 网络传染病动力学建模与分析[M]. 科学出版社, 2014.
 
   [2]Newman M. Networks[M]. Oxford university press, 2018.
+
+- Open Source Software
+  
 
 - References
   
@@ -63,6 +66,8 @@ Other useful tools may help:
 Contributors:
 
 生物自组织网络
+
+景双林
 
 Links: [Complex Networks](/Complex%20Networks/Main_Complex_Networks.md)
 
