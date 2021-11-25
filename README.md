@@ -46,7 +46,7 @@ Document name is "Main_TopicName.md"
 - Others Resources
 
 
-Other usefull tools may help:
+Other useful tools may help:
 
 - Use "Zotero" "Group" to share references links
 
