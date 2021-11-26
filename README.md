@@ -64,7 +64,7 @@ Other useful tools may help:
 
 [Dynamical System: Semigroup Theory and so on](Basic%20Theory/Main_dynamic_system.md)
 
-[Spctral Theory](Basic%20Theory/Main_spectral_theory.md)
+[Spectral Theory](Basic%20Theory/Main_spectral_theory.md)
 
 [Optimization, Optimal Control, Optimal Transport](Basic%20Theory/Main_optimal.md)
 
