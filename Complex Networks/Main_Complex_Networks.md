@@ -6,6 +6,10 @@
 - [ References](#head5)
 - [ Blogs](#head6)
 - [Others Resources](#head7)
+  
+A very nice resources collection on networks
+
+[briatte/awesome-network-analysis: A curated list of awesome network analysis resources.](https://github.com/briatte/awesome-network-analysis#julia)
 # <span id="head1"> Problems</span>
   人口扩散网络的结构对传染病空间传播的影响
 
@@ -14,7 +18,11 @@
 
   公众号：集智俱乐部
 
+  Ginestra Bianconi
+
 # <span id="head3">Reviews in this area</span>
+
+  
 
   [陈关荣：探讨复杂网络的高阶拓扑及其应用](https://mp.weixin.qq.com/s/jhaTyxVjRTfSbBDjatBWFQ)
 
@@ -23,6 +31,8 @@
   [1]靳帧, 孙桂全, 刘茂省. 网络传染病动力学建模与分析[M]. 科学出版社, 2014.
 
   [2]Newman M. Networks[M]. Oxford university press, 2018.
+
+  [3] [Higher-Order Networks](https://www.cambridge.org/core/elements/higherorder-networks/26EE7ED4ECB114B2E231987C22759CDF)
 
 # <span id="head8"> Open Source Software </span>
 - Epidemics on Networks (EoN): http://epidemicsonnetworks.readthedocs.io/en/latest/

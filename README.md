@@ -101,6 +101,8 @@ Other useful tools may help:
 
 [Complex Networks](/Complex%20Networks/Main_Complex_Networks.md)
 
+[briatte/awesome-network-analysis: A curated list of awesome network analysis resources.](https://github.com/briatte/awesome-network-analysis)
+
 ### Evolution
 
 [Evolution](/Evolution/Main_Evolution.md)
