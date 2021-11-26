@@ -59,16 +59,83 @@ Other useful tools may help:
 
 - Use Chrome addon "markdown-clipper" to turn webpage to markdown document
 
-## Topics: Contributors and Links
+## Resources Link
+### Basic Theory
 
-### Network
+[Dynamical System: Semigroup Theory and so on](Basic%20Theory/Main_dynamic_system.md)
 
-Contributors:
+[Spctral Theory](Basic%20Theory/Main_spectral_theory.md)
+
+[Optimization, Optimal Control, Optimal Transport](Basic%20Theory/Main_optimal.md)
+
+[Bayesian Theory](Basic%20Theory/Main_bayesian.md)
+
+[Scientific Computation Methods](Basic%20Theory/Main_numerical.md)
+
+### ODESDEDDE
+
+[Ordinary Differential Equation: Bifurcation](ODESDEDDE/Main_ode.md)
+
+[Stochastic Differential Equation](ODESDEDDE/Main_sde.md)
+
+[Delayed Differential Equation](ODESDEDDE/Main_dde.md)
+
+[Discontionous: Impulsive or Filippov System](ODESDEDDE/Main_discontinous.md)
+### PDE
+
+[Spatial Heterogeneity](PDE/Main_spatial_heterogeneity.md)
+
+[Travelling Wave](PDE/Main_travelling_wave.md)
+
+[Free Boundary](PDE/Main_free_boundary.md)
+
+[Nonlocal](PDE/Main_nonlocal.md)
+
+[Periodic System](PDE/Main_periodic.md)
+
+[Structure System: age-structure](PDE/Main_structure.md)
+
+### Networks
+
+[Complex Networks](/Complex%20Networks/Main_Complex_Networks.md)
+
+### Evolution
+
+[Evolution](/Evolution/Main_Evolution.md)
+
+
+### Machine Learning
+
+[Couple differential equation and deep learning](Machine%20Learning/Main_differential_equation_ML.md)
+
+
+
+### Multiscale Modelling
+
+[Agent Based Model](Multiscale%20Modelling/Main_agents.md)
+
+[Within Host Dynamics](Multiscale%20Modelling/Main_withinhost.md)
+
+[Specific Disease Modelling: HIV, Influenza, Covid19,Dengue, Zika, Ebola, Cancer, and so on](Multiscale%20Modelling/Main_specific_disease.md)
+
+### Precise Epidemic Control
+
+[Human Behaviours: mask, media impact, social distancing](Precise%20Epidemic%20Control/Main_human_bahaviours.md)
+
+[Isolation Tracing Testing](Precise%20Epidemic%20Control/Main_isolation_tracing_testing.md)
+
+[Lockdown, transport control](Precise%20Epidemic%20Control/Main_lockdown.md)
+
+[Vaccination](Precise%20Epidemic%20Control/Main_vaccine.md)
+
+[Host Control: vector-borned disease](Precise%20Epidemic%20Control/Main_host_control.md)
+
+[Health Resources](Precise%20Epidemic%20Control/Main_health_resource.md)
+
+[Economics](Precise%20Epidemic%20Control/Main_economics.md)
+
+## Contributors
 
 生物自组织网络
 
 景双林
-
-Links: [Complex Networks](/Complex%20Networks/Main_Complex_Networks.md)
-
-### Evolution
