@@ -70,6 +70,8 @@ Other useful tools may help:
 
 [Bayesian Theory](Basic%20Theory/Main_bayesian.md)
 
+[Graph Theory](Basic%20Theory/Main_graph_theory.md)
+
 [Scientific Computation Methods](Basic%20Theory/Main_numerical.md)
 
 ### ODESDEDDE
