@@ -138,6 +138,11 @@ Other useful tools may help:
 
 [Economics](Precise%20Epidemic%20Control/Main_economics.md)
 
+
+### Paper Writings
+
+[English Writings](Wrtings/Main_writings.md)
+
 ## Contributors
 
 生物自组织网络
