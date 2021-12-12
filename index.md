@@ -67,17 +67,17 @@ Other useful tools may help:
 ## Resources Link
 ### Basic Theory
 
-[Dynamical System: Semigroup Theory and so on](Basic%20Theory/Main_dynamic_system.md)
+[Dynamical System: Semigroup Theory and so on](BasicTheory/Main_dynamic_system.md)
 
-[Spectral Theory](Basic%20Theory/Main_spectral_theory.md)
+[Spectral Theory](BasicTheory/Main_spectral_theory.md)
 
-[Optimization, Optimal Control, Optimal Transport](Basic%20Theory/Main_optimal.md)
+[Optimization, Optimal Control, Optimal Transport](BasicTheory/Main_optimal.md)
 
-[Bayesian Theory](Basic%20Theory/Main_bayesian.md)
+[Bayesian Theory](BasicTheory/Main_bayesian.md)
 
-[Graph Theory](Basic%20Theory/Main_graph_theory.md)
+[Graph Theory](BasicTheory/Main_graph_theory.md)
 
-[Scientific Computation Methods](Basic%20Theory/Main_numerical.md)
+[Scientific Computation Methods](BasicTheory/Main_numerical.md)
 
 ### ODESDEDDE
 
@@ -104,7 +104,7 @@ Other useful tools may help:
 
 ### Networks
 
-[Complex Networks](/Complex%20Networks/Main_Complex_Networks.md)
+[Complex Networks](/ComplexNetworks/Main_Complex_Networks.md)
 
 [briatte/awesome-network-analysis: A curated list of awesome network analysis resources.](https://github.com/briatte/awesome-network-analysis)
 
@@ -115,38 +115,38 @@ Other useful tools may help:
 
 ### Machine Learning
 
-[Couple differential equation and deep learning](Machine%20Learning/Main_differential_equation_ML.md)
+[Couple differential equation and deep learning](MachineLearning/Main_differential_equation_ML.md)
 
 
 
 ### Multiscale Modelling
 
-[Agent Based Model](Multiscale%20Modelling/Main_agents.md)
+[Agent Based Model](MultiscaleModelling/Main_agents.md)
 
-[Within Host Dynamics](Multiscale%20Modelling/Main_withinhost.md)
+[Within Host Dynamics](MultiscaleModelling/Main_withinhost.md)
 
-[Specific Disease Modelling: HIV, Influenza, Covid19,Dengue, Zika, Ebola, Cancer, and so on](Multiscale%20Modelling/Main_specific_disease.md)
+[Specific Disease Modelling: HIV, Influenza, Covid19,Dengue, Zika, Ebola, Cancer, and so on](MultiscaleModelling/Main_specific_disease.md)
 
 ### Precise Epidemic Control
 
-[Human Behaviours: mask, media impact, social distancing](Precise%20Epidemic%20Control/Main_human_bahaviours.md)
+[Human Behaviours: mask, media impact, social distancing](PreciseEpidemicControl/Main_human_behaviours.md)
 
-[Isolation Tracing Testing](Precise%20Epidemic%20Control/Main_isolation_tracing_testing.md)
+[Isolation Tracing Testing](PreciseEpidemicControl/Main_isolation_tracing_testing.md)
 
-[Lockdown, transport control](Precise%20Epidemic%20Control/Main_lockdown.md)
+[Lockdown, transport control](PreciseEpidemicControl/Main_lockdown.md)
 
-[Vaccination](Precise%20Epidemic%20Control/Main_vaccine.md)
+[Vaccination](PreciseEpidemicControl/Main_vaccine.md)
 
-[Host Control: vector-borned disease](Precise%20Epidemic%20Control/Main_host_control.md)
+[Host Control: vector-borned disease](PreciseEpidemicControl/Main_host_control.md)
 
-[Health Resources](Precise%20Epidemic%20Control/Main_health_resource.md)
+[Health Resources](PreciseEpidemicControl/Main_health_resource.md)
 
-[Economics](Precise%20Epidemic%20Control/Main_economics.md)
+[Economics](PreciseEpidemicControl/Main_economics.md)
 
 
 ### Paper Writings
 
-[English Writings](Wrtings/Main_writings.md)
+[English Writings](Writings/Main_writings.md)
 
 ## Contributors
 
