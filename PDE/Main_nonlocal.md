@@ -1,29 +1,21 @@
-- [ Problems](#head1)
-- [Experts in this area](#head2)
-- [Reviews in this area](#head3)
-- [ Books](#head4)
-- [ Open Source Software](#head8)
-- [ References](#head5)
-- [ Blogs](#head6)
-- [Others Resources](#head7)
-# <span id="head1"> Problems</span>
+\tableofcontents
+# Problems
+  
+# Experts in this area
   
 
-# <span id="head2">Experts in this area</span>
-  
-
-# <span id="head3">Reviews in this area</span>
+# Reviews in this area
 
   
-# <span id="head4"> Books</span>
+# Books
 
 
-# <span id="head8"> Open Source Software </span>
+# Open Source Software
 
 
-# <span id="head5"> References</span>
+# References
   
 
-# <span id="head6"> Blogs</span>
+# Blogs
   
-# <span id="head7">Others Resources</span>
+# Others Resources
