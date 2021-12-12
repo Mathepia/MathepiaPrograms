@@ -1,4 +1,0 @@
-Sitemap: https://Song921012.github.io/MathepiaPrograms/sitemap.xml
-
-User-agent: *
-Disallow:
