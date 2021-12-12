@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Mathepia Programs"
 website_descr = "Resources on projects of mathematical epidemiology"
-website_url   = "https://Song921012.github.io/MathepiaPrograms/"
+website_url   = "https://Mathepia.github.io/MathepiaPrograms/"
 +++
 
 @def prepath = "MathepiaPrograms"
