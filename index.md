@@ -75,7 +75,7 @@ Other useful tools may help:
 
 [Bayesian Theory](/BasicTheory/Main_bayesian/)
 
-[Graph Theory](/BasicTheory/Main_graph_theory/
+[Graph Theory](/BasicTheory/Main_graph_theory/)
 
 [Scientific Computation Methods](/BasicTheory/Main_numerical/)
 
