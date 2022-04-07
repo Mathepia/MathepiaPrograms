@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8593],{2667:function(e){e.exports=JSON.parse('{"allTagsPath":"/MathepiaPrograms/blog/tags","name":"welcome","count":2,"permalink":"/MathepiaPrograms/blog/tags/welcome"}')}}]);
