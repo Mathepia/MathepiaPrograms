@@ -47,7 +47,7 @@ const config = {
         content: `⭐️ If you like Mathepia, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mathepia/MathepiaPrograms">star us</a>`,
       },
       navbar: {
-        title: 'Projects',
+        title: 'Mathepia Programs',
         logo: {
           alt: 'Mathepia Logo',
           src: 'img/avatar.jpg',
