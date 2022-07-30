@@ -65,8 +65,12 @@ const config = {
                 href: 'https://github.com/Mathepia',
               },
               {
+                label: 'JuliaEpi',
+                href: 'https://github.com/JuliaEpi',
+              },
+              {
                 label: 'MathEpiDeepLearning',
-                href: 'https://song921012.github.io/MathEpiDeepLearning/',
+                href: 'https://JuliaEpi.github.io/MathEpiDeepLearning/',
               },
         ],
       },
@@ -81,7 +85,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-            href: 'https://github.com/Song921012/MathEpiDeepLearning',
+            href: 'https://github.com/JuliaEpi/MathEpiDeepLearning',
             label: 'Resources',
           },
             ],
@@ -96,6 +100,10 @@ const config = {
               {
                 label: 'Mathepia Packages Systems',
                 href: 'https://github.com/Song921012/Mathepia.jl',
+              },
+              {
+                label: 'Julia Epi System',
+                href: 'https://github.com/JuliaEpi',
               },
             ],
           },
