@@ -44,7 +44,7 @@ const config = {
     ({
       announcementBar: {
         id: 'announcementBar-2', // Increment on change
-        content: `⭐️ If you like Mathepia, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mathepia/MathepiaPrograms">star us</a>`,
+        content: `⭐️ If you like Mathepia, don't hesitate to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Mathepia/Mathepia.jl">star us</a>`,
       },
       navbar: {
         title: 'Mathepia Programs',
@@ -99,7 +99,7 @@ const config = {
               },
               {
                 label: 'Mathepia Packages Systems',
-                href: 'https://github.com/Song921012/Mathepia.jl',
+                href: 'https://github.com/Mathepia/Mathepia.jl',
               },
               {
                 label: 'Julia Epi System',
